@@ -4,9 +4,9 @@ Operator found via the **Running Reindeer Ranch** website and TripAdvisor listin
 
 **Note on dates:** Dec 19, 2026 - Jan 3, 2027 is the holiday **peak season** for Fairbanks tours. **Winter daylight is only ~4-5 hours** this time of year; tours run in the day and you’ll be outdoors for over an hour. Tours are reservation-only — the ranch is also a private home, so walk-ins are not accepted.
 
-| Company | Website | Phone | Price (per person) | Schedule | Pickup / Drive-to |
-|---|---|---|---|---|---|
-| **Running Reindeer Ranch** — Reindeer Walks (guided natural history walk with reindeer + post-walk cookies & drinks) | [runningreindeer.com/experience/reindeer-walks/](https://runningreindeer.com/experience/reindeer-walks/) | (907) 455-4998 · info@runningreindeer.com | **Adults $85-$120** varies seasonally; **Children $50-$90**. Prices vary by date — see online calendar for exact pricing. | Open all year. Duration **2-2.5 hrs** including walk and refreshments. Group size **min 4, max 22**. Check online calendar for Dec 23-31 availability; tours run year-round, including winter. | **Drive to them.** Meet at Running Reindeer Ranch, **1470 Ivans Alley, Fairbanks, AK 99709**. No hotel pickup. Parking on site. Arrive on time — ranch is busy prepping reindeer before tours. |
+| Company | Website | Phone | Price (per person) | Schedule | Pickup / Drive-to | Reviews (Google / TripAdvisor / Yelp) *as of Aug 2026* |
+|---|---|---|---|---|---|---|
+| **Running Reindeer Ranch** — Reindeer Walks (guided natural history walk with reindeer + post-walk cookies & drinks) | [runningreindeer.com/experience/reindeer-walks/](https://runningreindeer.com/experience/reindeer-walks/) | (907) 455-4998 · info@runningreindeer.com | **Adults $85-$120** varies seasonally; **Children $50-$90**. Prices vary by date — see online calendar for exact pricing. | Open all year. Duration **2-2.5 hrs** including walk and refreshments. Group size **min 4, max 22**. Check online calendar for Dec 23-31 availability; tours run year-round, including winter. | **Drive to them.** Meet at Running Reindeer Ranch, **1470 Ivans Alley, Fairbanks, AK 99709**. No hotel pickup. Parking on site. Arrive on time — ranch is busy prepping reindeer before tours. | **Google 4.9** (~150) · **TA 4.9** (2,315) · **Yelp 4.8-4.9** (111-135). [Google via Apple Maps 4.9 (145)](https://maps.apple.com/place?place-id=I61843EE94900CC7E) / [TA 4.9 (2,315)](https://www.tripadvisor.com/Attraction_Review-g60826-d1965939-Reviews-Running_Reindeer_Ranch-Fairbanks_Alaska.html) / [Yelp 4.8 (111) / 4.9 (135)](https://www.yelp.com/biz/running-reindeer-ranch-fairbanks) |
 
 ## Notes & caveats
 
@@ -23,3 +23,4 @@ Operator found via the **Running Reindeer Ranch** website and TripAdvisor listin
 - Running Reindeer Ranch Reindeer Walks page: https://runningreindeer.com/experience/reindeer-walks/
 - Operator contact: info@runningreindeer.com · (907) 455-4998
 - TripAdvisor listing: https://www.tripadvisor.com/Attraction_Review-g60826-d1965939-Reviews-Running_Reindeer_Ranch-Fairbanks_Alaska.html
+- Reviews (Aug 2026, G/TA/Y): Google 4.9 (~150) via Apple Maps / roadtrippers, TA 4.9 (2,315) via tripadvisor.co.uk/d1965939, Yelp 4.8 (111) / 4.9 (135) via yelp.com/biz/running-reindeer-ranch-fairbanks
