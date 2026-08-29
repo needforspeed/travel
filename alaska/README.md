@@ -18,3 +18,4 @@ Research notes for a Fairbanks, Alaska winter trip, saved per topic.
 ## Reference
 
 - [Alaska Cruise Ports Rank](cruise-ports-rank.md) — ranked Alaska cruise ports with pros/cons from video summary
+- [Car-Accessible Glaciers](car-accessible-glaciers.md) — 7 glaciers reachable by car: Exit, Byron, Matanuska, Castner, Gulkana, Worthington, Root — trail distances, tour requirements, ice caves & avalanche notes
