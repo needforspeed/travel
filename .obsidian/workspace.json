@@ -11,10 +11,14 @@
             "id": "12999ea95a13702f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "alaska/dog-mushing.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "dog-mushing"
             }
           }
         ]
@@ -184,14 +188,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "12999ea95a13702f",
+  "active": "cef253549236c7c4",
   "lastOpenFiles": [
+    "alaska/5iAurora.md",
     "alaska/car-accessible-glaciers.md",
     "alaska/cruise-ports-rank.md",
     "alaska/dog-mushing.md",
     "alaska/README.md",
     "alaska/arctic-circle.md",
-    "alaska/5iAurora.md",
     "README.md"
   ]
 }
