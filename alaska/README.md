@@ -9,6 +9,7 @@ Research notes for a Fairbanks, Alaska winter trip, saved per topic.
 - [Arctic Circle](arctic-circle.md) — Arctic Circle day trips via Dalton Highway, pricing, schedule, pickup
 - [Denali National Park](denali.md) — Denali trips from Fairbanks, pricing, schedule, pickup
 - [Reindeer Walks](reindeer-walks.md) — Running Reindeer Ranch walks, pricing, schedule, pickup
+- [Chena Hot Springs Resort](chena-hot-springs-resort.md) — resort lodging, hot springs passes, activities pricing, guest benefits for dog sled, snowmobile, aurora tour
 - [Alaska Safari Sultan Tour (5iAurora)](5iAurora.md) — TripAdvisor review analysis + license verification for this operator
 
 ## Planning
