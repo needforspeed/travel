@@ -48,6 +48,19 @@
 
 ---
 
+## All Four Volcano Types — Why Lassen Is Unique
+
+Lassen is one of the few places on Earth where all four types of volcanoes can be seen in one park:
+
+1.  **Shield Volcano — Prospect Peak:** Broad, gently sloping landform formed by fluid lava flows. Best viewed from the Devastated Area / park highway — not a separate hike on this itinerary.
+2.  **Plug Dome — Lassen Peak:** The largest plug dome volcano in the United States (one of the largest in the world), formed by viscous magma that cools near the vent. Admire from **Lake Helen** (Sun) and **Manzanita Lake** — no need to summit.
+3.  **Cinder Cone — Cinder Cone (Butte Lake):** Steep-sided hill formed from volcanic debris ejected during an eruption. Optional **Mon morning 4 mi RT hike** at Butte Lake (Fantastic Lava Beds + Painted Dunes views) — bare, exposed, go early.
+4.  **Composite Volcano (Stratovolcano) — Brokeoff Volcano:** Large, steep-sided volcano formed from layers of ash and lava. Remnants include **Brokeoff Mountain, Mt. Diller & Pilot Pinnacle** — visible along the main park road near Kohm Yah-mah-nee VC / Sulphur Works / Lake Helen. Former summit was near present-day Brokeoff Mountain before it collapsed ~400k years ago.
+
+> **Junior Ranger tip:** Ask at Loomis Museum or Kohm Yah-mah-nee VC how to spot each type — rangers love quizzing kids on the four.
+
+---
+
 ## Pack List
 - Layers (Bumpass Hell is 8,000 ft — windy/cold) • sunscreen • hats • water bottles
 - Picnic lunch + snacks • hiking shoes • NPS app w/ offline maps
