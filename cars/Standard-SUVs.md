@@ -45,6 +45,21 @@ Best winter-capable picks from the group:
 * **Honda Passport AWD** – standard AWD with good clearance.
 * **Hyundai Santa Fe AWD, Kia Sorento AWD, Nissan Murano AWD** – competent AWD crossovers for plowed roads.
 
+### Ground clearances – base trims
+
+| car | car type | awd/4wd | clearance |
+|---|---|---|---|
+| Toyota 4Runner | Mid-size SUV (body-on-frame) | 4WD | 9.6 in |
+| Jeep Grand Cherokee | Mid-size SUV (Uniframe/unibody) | 4WD | 8.3 in |
+| Toyota Highlander AWD | Mid-size crossover SUV (unibody) | AWD | 8.0 in |
+| Honda Passport AWD | Mid-size crossover SUV (unibody) | AWD | 8.1 in |
+| Hyundai Santa Fe AWD | Mid-size crossover SUV (unibody) | AWD | 7.0 in |
+| Kia Sorento AWD | Mid-size crossover SUV (unibody) | AWD | 6.9 in |
+| Nissan Murano AWD | Mid-size crossover SUV (unibody) | AWD | 6.9 in |
+| Ford Bronco | Body-on-frame SUV (mid-size) | 4WD | 8.4 in |
+
+Values are for 2024 base trim spec per Kelley Blue Book. Rental fleets typically receive base trims.
+
 Use with caution:
 * **Dodge Journey, Buick Encore** – lower clearance, less off-road capability; Encore is sub-compact.
 
