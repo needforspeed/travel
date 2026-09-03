@@ -48,26 +48,25 @@
 
 ---
 
-## All Four Volcano Types — Where & When to See Them (GPS Pinpoints)
+## All Four Volcano Types — Where & When to See Them (use names, not old coords)
 
-Lassen is one of the few places on Earth where all four volcano types can be seen in one park. **All four are visible on Sunday.** Each *type* is best seen from a specific named viewpoint along your planned route — search these coords in Google Maps to pin them.
+Lassen is one of the few places on Earth where all four volcano types can be seen in one park. **All four are visible on Sunday.** Search these **names** in Google Maps — don't navigate by the old coords, those were approximate LLM estimates and some pointed to backcountry, not parking.
 
-| Type | Volcano | Best Viewpoint (pin this) | Coords | Day / Note |
+| Type | Volcano | Best Viewpoint (search this name) | Parking / coords | Day / Note |
 |---|---|---|---|---|
-| **Plug Dome** | Lassen Peak | **Lake Helen** | `40.4776, -121.5113` | **Sun** am — pull-off just S of Helen on Hwy-89. Closest big-money view of the dome. |
-| **Plug Dome** | Lassen Peak | Manzanita Lake | `40.5320, -121.5670` | **Sat** sunset & **Mon** am — reflection shot. |
-| **Composite (Stratovolcano)** | Brokeoff Volcano (Brokeoff Mt, Mt Diller, Pilot Pinnacle) | **Sulphur Works** pull-off | `40.4523, -121.5300` | **Sun** am — look SW; the Brokeoff remnants line up here. |
-| **Composite** | Brokeoff Volcano | Kohm Yah-mah-nee VC overlook | `40.4530, -121.5290` | **Sun** am — open-air vista, best context + map. |
-| **Shield** | Prospect Peak | **Devastated Area** loop | `40.5150, -121.4540` | **Sun** pm — broad, low dome SW; also visible from park highway. No separate hike. |
-| **Cinder Cone** | Cinder Cone | **Butte Lake trailhead** (4 mi RT hike) | `40.5270, -121.2790` | **Mon** am (optional) — Fantastic Lava Beds + Painted Dunes; summit view down into cone. |
-| **Cinder Cone** | Cinder Cone | view from Butte Lake shore | `40.5270, -121.2790` | **Mon** am — skip the hike if short on time, still see the cone from the lake. |
+| **Plug Dome** | Lassen Peak | **Lassen Peak Trailhead parking** + **Lake Helen Picnic Area pullouts** | Trailhead lot `40.4747, -121.5057` — Lake itself `40.4686, -121.5100`, park at SE-shore picnic pullouts on Hwy-89 between Bumpass Hell and Peak lots | **Sun** am — closest big view of the dome. |
+| **Plug Dome** | Lassen Peak | Manzanita Lake south shore / Loomis Plaza | Loomis Museum `40.5362, -121.5631`, then walk to lake | **Sat** sunset & **Mon** am — reflection shot. |
+| **Composite (Stratovolcano)** | Brokeoff Volcano (Brokeoff Mt, Mt Diller, Pilot Pinnacle) | **Sulphur Works parking area** | `40.4495, -121.5346` — 2 mi N of SW entrance, 1 mi N of Kohm VC, west side of Hwy-89 | **Sun** am — look SW; the Brokeoff remnants line up here. |
+| **Composite** | Brokeoff Volcano | Kohm Yah-mah-nee VC | `40.4378, -121.5338` — 21820 Lassen Peak Hwy, Mineral | **Sun** am — exhibits + vista. |
+| **Shield** | Prospect Peak | **Devastated Area parking** | Search `Devastated Area Trailhead` — on Hwy-89 ~10 mi from NW entrance / 19.1 mi from SW entrance. No separate hike. | **Sun** pm — broad, low dome; also visible from park highway. |
+| **Cinder Cone** | Cinder Cone | **Butte Lake Day Use Area / Campground trailhead** (4 mi RT hike) | `40.5648, -121.3058` — end of 6-mi gravel Butte Lake Rd off Hwy-44. | **Mon** am (optional) — Fantastic Lava Beds + Painted Dunes; summit view down into cone. Skip hike if short — still see cone from N shore. |
 
 ### Day-by-day quick view
-- **Sat (sunset):** Plug Dome from **Manzanita Lake** `40.5320, -121.5670`.
-- **Sun:** All **four** types — Plug Dome (Lake Helen `40.4776, -121.5113`) → Composite (Sulphur Works `40.4523, -121.5300` & Kohm VC `40.4530, -121.5290`) → Shield (Devastated Area `40.5150, -121.4540`).
-- **Mon (optional):** Cinder Cone at **Butte Lake** `40.5270, -121.2790`.
+- **Sat (sunset):** Plug Dome from **Manzanita Lake / Loomis Museum** `40.5362, -121.5631`.
+- **Sun:** All **four** types — Plug Dome (Lassen Peak lot `40.4747, -121.5057` / Lake Helen `40.4686, -121.5100`) → Composite (Sulphur Works `40.4495, -121.5346` & Kohm VC `40.4378, -121.5338`) → Shield (Devastated Area Trailhead).
+- **Mon (optional):** Cinder Cone at **Butte Lake** `40.5648, -121.3058`.
 
-> **Junior Ranger tip:** Ask at Loomis Museum (`40.5329, -121.5652`) or Kohm Yah-mah-nee VC how to spot each type — rangers love quizzing kids on the four. Google Maps shares coords with Apple Maps for easy search.
+> **Junior Ranger tip:** Ask at Loomis Museum (`40.5362, -121.5631`) or Kohm Yah-mah-nee VC (`40.4378, -121.5338`) how to spot each type — rangers love quizzing kids on the four. In the park use names + NPS offline map; no cell service.
 
 ---
 
