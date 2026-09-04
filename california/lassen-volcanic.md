@@ -40,7 +40,7 @@
 | Time | Activity |
 |---|---|
 | 8:00 am | SAN → SMF, Avis Preferred Plus — wheels up ~10:15 |
-| 10:15–1:15 | Drive SMF → Red Bluff via I-5N (2h53m wheels-moving) |
+| 10:15–1:15 | Drive SMF → Red Bluff via I-5N (2h53m wheels-moving). If wheels up slips past 10:45 (holiday bags/traffic), skip Walmart — drive-through lunch only, straight to Loomis to protect 4:30 JR deadline, shop Susanville Walmart 2900 Main St (6am-11pm) in evening instead |
 | 1:15–1:45 | Walmart Red Bluff, 608 Luther Rd (Exit 647, ~1 min off I-5) — water/ice/snacks + gas/fast lunch, then Deschutes Rd → CA-44E → Loomis |
 | 2:30–3:30 | **Loomis Museum** (9:30-4:30): buy annual pass at Manzanita entrance + **Junior Ranger booklets** + eruption exhibits |
 | 3:30–4:15 | **Devastated Area** loop (10 mi S on Hwy-89, 0.5 mi, 30 min) — knocks it off Sunday |
@@ -68,18 +68,25 @@ https://maps.app.goo.gl/gUFD25BV2rBRfq1JA
 | 4:30–5:15 | Optional Manzanita Lake short stroll if legs left |
 | 5:15–6:05 | CA-44 east → Susanville, dinner |
 
-If Bumpass lot full/closed: skip to Sulphur + Kohm first, do Lake Helen on northbound return.
+If Bumpass lot full: NPS overflow is Lake Helen area — park outside white line / picnic area / turnout, trail passes Lake Helen at ~0.25 mi. If that also full: do Sulphur + Kohm first, retry Bumpass ~1-2pm when morning crowd leaves.
 
 ## Mon Sept 7 — East Side Return + 8:10pm Flight
 | Time | Activity |
 |---|---|
-| 8:00–8:30 | Check out Susanville with all bags. Gas in town — no Manzanita loop (already done Sat/Sun) |
+| 8:00–8:30 | Check out Susanville with all bags. Gas in town — check CalTrans QuickMap for CA-70 delays before leaving. Fallback if major delay: CA-36W → I-5S via Red Bluff |
 | 8:30–10:00 | Susanville → Quincy via CA-36W + CA-89S past Lake Almanor (Lassen backdrop, ~70 mi) |
-| 10:00–10:30 | Quincy stretch — coffee, historic downtown, Plumas Museum optional |
+| ~~10:00–10:30~~ | ~~Quincy stretch — coffee, historic downtown leg-stretch~~* |
 | 10:30–1:00 | **Feather River Canyon (CA-70W)** — Pulga + Tobin bridges, Grizzly Dome tunnel, Stairway of Power pullouts. Slow 2-lane, check CalTrans QuickMap morning-of |
 | 1:00–1:45 | Oroville lunch + dam overlook (770 ft tallest US dam) |
 | 1:45–4:00 | Oroville → SMF via CA-70W/99S (~70 mi, Labor Day traffic buffer) |
 | 5:00–5:30 | SMF rental return + shuttle (allow 25-35 min). In terminal by 6:10 for 8:10pm flight |
+
+
+https://maps.app.goo.gl/FyCUobf893SNqstJ6
+
+\*Skipped to save ~30 min Missing outs:
+* **Plumas Museum** (500 Jackson St — Maidu baskets, Feather River gold/railroad/TIMBER wing, blacksmith, stamp mill, 1878 Variel Victorian; likely closed Labor Day Mon anyway)
+* **historic downtown** (1919 courthouse centerpiece, Heritage Walk 61 sites, murals, boutiques in Victorians — best coffee/food stop on CA-70).
 
 Fallback if CA-70 closed: Manzanita loop 9:20-10:50 + I-5S via Redding, SMF ~3:30 (long airport wait but safe). Plan B Cinder Cone dropped — doesn't fit CA-70 day.
 
